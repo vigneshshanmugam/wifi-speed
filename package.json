@@ -1,0 +1,22 @@
+{
+  "name": "wifi-speed",
+  "version": "0.0.1",
+  "description": "Get the current wi-fi link speed ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vigneshshanmugam/wifi-speed.git"
+  },
+  "keywords": [
+    "Wifi"
+  ],
+  "author": "Vignesh Shanmugam <vignesh.shanmugam22@gmail.com> (https://vigneshh.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vigneshshanmugam/wifi-speed/issues"
+  },
+  "homepage": "https://github.com/vigneshshanmugam/wifi-speed"
+}
