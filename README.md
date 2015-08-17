@@ -6,7 +6,6 @@
 
 ```
 npm install wifi-speed
-
 ```
 
 ### Usage
@@ -26,3 +25,6 @@ The output of the above code will be
 Wi-Fi Speed : 217Mb/s
 ```
 
+### License
+
+MIT
