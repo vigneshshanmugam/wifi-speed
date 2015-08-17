@@ -25,6 +25,10 @@ The output of the above code will be
 Wi-Fi Speed : 217Mb/s
 ```
 
+### Caveats
+
++ Works only in OSX.
+
 ### License
 
 MIT
